@@ -1,0 +1,7 @@
+﻿  ResultsForm.cpp
+  main.cpp
+  road_planner.cpp
+C:\Users\Vova\source\repos\Road_planner\Road_planner\road_planner.cpp(56,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Road_planner.vcxproj -> C:\Users\Vova\source\repos\Road_planner\Debug\Road_planner.exe
